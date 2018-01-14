@@ -1,7 +1,5 @@
  * Author: Mary Najafi
  * Apr 5, 2017
- * Course:  CSE 5693, Fall 2017
- * Project: HW4, GA
  * The following is the manual to run the GA algorithm.
 ---
 java Main [OPTIONS]
